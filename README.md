@@ -35,7 +35,3 @@ The application will open in your default web browser at `http://localhost:8501`
 3. View the bias and fake news scores
 4. Read the article summary and key topics
 5. Expand the full article text if needed
-
-## Note
-
-This is a basic implementation for demonstration purposes. The bias and fake news detection algorithms are simplified and should not be used for critical decision-making. For production use, consider implementing more sophisticated machine learning models and additional verification methods. 
