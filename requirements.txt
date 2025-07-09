@@ -1,0 +1,13 @@
+streamlit==1.32.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+textblob==0.17.1
+plotly==5.18.0
+pandas==2.2.1
+nltk==3.8.1
+textstat==0.7.3
+setuptools>=65.5.1
+python-dotenv==1.0.0
+validators==0.22.0
+openai>=1.50.0
+pyperclip==1.8.2
